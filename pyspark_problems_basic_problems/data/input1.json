@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Clarke",
+    "Education": [
+      {
+        "Qualification": "BE",
+        "year": 2018
+      },
+      {
+        "Qualification": "ME",
+        "year": 2020
+      }
+    ]
+  },
+  {
+    "name": "John",
+    "Education": [
+      {
+        "Qualification": "BE",
+        "year": 2015
+      }
+    ]
+  }
+]
